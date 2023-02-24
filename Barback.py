@@ -1,11 +1,11 @@
 answer="placeholder"
 i= 0
-gin= ["Gimlet", "Negroni", "Ramos Gin Fizz"]
-vodka= ["Lemon Drop", "Martini", "Blackberry-Thyme Mule"]
-whiskey= ["Whiskey Smash", "Old Fashioned", "New York Sour"]
-tequila= ["Tequila Sunrise", "Paloma", "Mango-Habanero Margarita"]
-rum= ["Rum Punch", "Mai Tai", "Pineapple Caipirinha"]
-brandy= ["Sidecar", "Brandy Alexander", "Vieux Carre"]
+gin= ["Gimlet.", "Negroni.", "Ramos Gin Fizz."]
+vodka= ["Lemon Drop.", "Martini.", "Blackberry-Thyme Mule."]
+whiskey= ["Whiskey Smash.", "Old Fashioned.", "New York Sour."]
+tequila= ["Tequila Sunrise.", "Paloma.", "Mango-Habanero Margarita."]
+rum= ["Rum Punch.", "Mai Tai.", "Pineapple Caipirinha."]
+brandy= ["Sidecar.", "Brandy Alexander.", "Vieux Carre."]
 
 print("Welcome to the best bar in town!")
 print("What is your liquor of choice?")
